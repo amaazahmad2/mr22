@@ -7,6 +7,7 @@ int main(){
     cout<<"Hello World"<<endl;
     cout<<"Secone line of the main program."
     signup()
+    header()
     login()
     return 0;
 }
